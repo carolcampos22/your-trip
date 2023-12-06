@@ -4,7 +4,8 @@ Projeto, para fins de aprendizado, de um site de compras de pacotes de viagens. 
 
 ### Tecnologias utilizadas
 1. HTML
-2. Bootstrap
+2. CSS
+3. Bootstrap
 
 ### Como rodar este projeto
 1. Faça um clone deste repositório:
